@@ -110,7 +110,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "mediocre student who likes math and geophysics"
   location         : "likely chicago"
-  email            : "first name + last initial + @uchicago.edu
+  email            : "first name + last initial + @uchicago.edu"
   links:
     #- label: "Email"
       #icon: "fas fa-fw fa-envelope-square"

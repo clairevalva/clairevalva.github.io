@@ -117,9 +117,10 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/clairevalva"
+      
     - label: "(empty) Google Scholar"
       icon: "fab fa-google"
-      url: # "https://scholar.google.com/citations?view_op=list_works&hl=en&authuser=1&user=OW0tCDgAAAAJ
+      url: "https://scholar.google.com/citations?user=FLOfEK8AAAAJ&hl=en"
       
     
 

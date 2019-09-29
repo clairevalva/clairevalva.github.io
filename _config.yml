@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Claire Valva"
 title_separator          : "|"
 name                     : "Claire Valva"
-description              : "an unfinished (academic) website (for a baby academic)"
+description              : "an unfinished (academic) website for an undecided scientist/mathematician"
 url                      : https://clairevalva.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "clairevalva/clairevalva.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -64,7 +64,7 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-search                   : true # true, false (default)
+search                   : false # true, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
 algolia:
@@ -73,7 +73,7 @@ algolia:
   search_only_api_key    : # YOUR_SEARCH_ONLY_API_KEY
   powered_by             : # true (default), false
 google:
-  search_engine_id       : # YOUR_SEARCH_ENGINE_ID
+  search_engine_id       : XfzbUqnz2RqHvmKa_bF8dzkfact3c1x-tmzLE9H62os
   instant_search         : # false (default), true
 # SEO Related
 google_site_verification :
@@ -88,13 +88,13 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : # Open Graph/Twitter default site image
+og_image                 : /assets/images/default_im.JPG # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  links: https://scholar.google.com/citations?view_op=list_works&hl=en&authuser=1&user=OW0tCDgAAAAJ # An array of links to social media profiles
 
 # Analytics
 analytics:
@@ -107,14 +107,24 @@ analytics:
 # Site Author
 author:
   name             : "Claire Valva"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/me.JPG"
   bio              : "math + geophysics undergrad at uchicago, interests subset union of the two"
   location         : "likely chicago"
-  email            : #
+  email            : my first name + v + at + uchicago.edu #here is it
+  # Site Footer
+
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/clairevalva"
+      
+    - label: "(empty) Google Scholar"
+      icon: "fab fa-google"
+      url: "https://scholar.google.com/citations?user=FLOfEK8AAAAJ&hl=en"
+      
+    
+
+      
     #- label: "Email"
       #icon: "fas fa-fw fa-envelope-square"
       # url: mailto:your.name@email.com
@@ -126,9 +136,7 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/clairevalva"
-    #- label: "Twitter"
-      #icon: "fab fa-fw fa-twitter-square"
-      # url:
+    
     #see above
 
 

@@ -112,7 +112,7 @@ author:
   location         : "likely chicago"
   email            : my first name + v + at + uchicago.edu #here is it
   links:
-    - label: "GitHub"
+     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/clairevalva"
      - label: "(empty) Google Scholar"

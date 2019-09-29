@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "home"
+%title: "home"%
 author_profile: true
 permalink: /
 ---

@@ -111,14 +111,17 @@ author:
   bio              : "math + geophysics undergrad at uchicago, interests subset union of the two"
   location         : "likely chicago"
   email            : my first name + v + at + uchicago.edu #here is it
+  # Site Footer
+
   links:
-     - label: "GitHub"
+    - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/clairevalva"
-     - label: "(empty) Google Scholar"
+    - label: "(empty) Google Scholar"
       icon: "fab fa-google"
-      url: "https://scholar.google.com/citations?view_op=list_works&hl=en&authuser=1&user=OW0tCDgAAAAJ"
-    #see above
+      url: "https://scholar.google.com/citations?view_op=list_works&hl=en&authuser=1&user=OW0tCDgAAAAJ
+      
+    
 
       
     #- label: "Email"

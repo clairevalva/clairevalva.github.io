@@ -6,7 +6,7 @@ author_profile: true
 
 ---
 
-{% include base_path %}
+# {% include base_path %}
 
 # About Me:
 I am a fourth year undergraduate at the University of Chicago studying Math and Geophyscial Sciences. I am interested in (geophysical) fluid dynamics, dynamical systems, nonlinearity, and most else I come across.

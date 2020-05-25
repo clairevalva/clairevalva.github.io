@@ -18,6 +18,6 @@ I am grateful to the National Science Foundation's Graduate Research Fellowship 
 
 * You can find a link to a write up about B&ouml;ttcher laminations for complex polynomials [here](https://clairevalva.github.io/files/blaminations.pdf) and a corresponding javascript applet [here](https://clairevalva.github.io/mathviz/) to look at laminations when the degree of the polynomial is relatively small. Please email me if anything looks off! (I completed this in a class with Danny Calegari on 1-D complex dynamics and big mapping class groups at the University of Chicago in Winter 2019.)
 
-* A copy of my paper on geodesic flow and manifolds of negative curvature is [here] (https://clairevalva.github.io/files/REU_PAPER.pdf). It concludes with a proof that geodesic flow on surfaces of negative curvature is ergodic. I completed this work during the 2019 Mathematics REU at the University of Chicago. 
+* A copy of my paper on geodesic flow and manifolds of negative curvature is [here] (https://clairevalva.github.io/files/REU_PAPER.pdf). It concludes with a proof that geodesic flow on surfaces of negative curvature is ergodic. I completed this work during the 2019 Mathematics REU at the University of Chicago.
 
 

@@ -14,6 +14,7 @@
 # remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
+future                   : true
 # Site Settings
 locale                   : "en-US"
 title                    : "Claire Valva"
@@ -108,9 +109,9 @@ analytics:
 author:
   name             : "Claire Valva"
   avatar           : "/assets/images/me.JPG"
-  bio              : "math + geophysics undergrad at uchicago, interests subset union of the two"
-  location         : "likely chicago"
-  email            : my first name + v + at + uchicago.edu #here is it
+  bio              : "PhD student at the Center for Atmosphere Ocean Science at Courant"
+  location         : "chicago/nyc/on a rock"
+  email            : "my first name + v + at + uchicago.edu or nyu.edu" #here is it
   # Site Footer
 
   links:

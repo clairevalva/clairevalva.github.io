@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "home"
-permalink: /
+permalink: /home_02
 author_profile: true
 
 ---

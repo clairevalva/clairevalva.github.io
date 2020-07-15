@@ -20,7 +20,7 @@ locale                   : "en-US"
 title                    : "Claire Valva"
 title_separator          : "|"
 name                     : "Claire Valva"
-description              : "an unfinished (academic) website for an undecided scientist/mathematician"
+description              : "an unfinished (academic) website for an applied mathematician/applied physicist/geophysicist"
 url                      : https://clairevalva.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "clairevalva/clairevalva.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -109,9 +109,9 @@ analytics:
 author:
   name             : "Claire Valva"
   avatar           : "/assets/images/me.JPG"
-  bio              : "PhD student at the Center for Atmosphere Ocean Science at Courant"
+  bio              : "PhD student at the Center for Atmosphere Ocean Science at Courant. You can email me at: my first name + v + at + nyu.edu"
   location         : "chicago/nyc/on a rock"
-  email            : "my first name + v + at + uchicago.edu or nyu.edu" #here is it
+  # email            : "my first name + v + at + uchicago.edu or nyu.edu" #here is it
   # Site Footer
 
   links:
@@ -119,7 +119,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/clairevalva"
       
-    - label: "(empty) Google Scholar"
+    - label: "Google Scholar"
       icon: "fab fa-google"
       url: "https://scholar.google.com/citations?user=FLOfEK8AAAAJ&hl=en"
       
